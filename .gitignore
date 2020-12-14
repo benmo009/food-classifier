@@ -1,2 +1,5 @@
 # Food-101 dataset from Kaggle
-food-101/*
+food-101
+*.tar.gz
+
+.ipynb_checkpoints
