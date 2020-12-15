@@ -3,3 +3,4 @@ food-101
 *.tar.gz
 
 .ipynb_checkpoints
+.vscode
